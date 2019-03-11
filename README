@@ -1,0 +1,6 @@
+Simple shooter game written in python for Raspberry Pi, displayed on 128x64 OLED display.
+
+Movement is done via GPIO push buttons. Shooting is automatic.
+
+by
+Hard Drill Studio
